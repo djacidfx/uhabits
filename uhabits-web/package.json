@@ -26,8 +26,8 @@
   },
   "devDependencies": {
     "babel-loader": "^7.1.5",
-    "mocha": "^6.2.0",
-    "serve": "^11.1.0",
+    "mocha": "^10.2.0",
+    "serve": "^14.2.1",
     "webpack": "^4.39.1",
     "webpack-cli": "^3.3.6"
   }
